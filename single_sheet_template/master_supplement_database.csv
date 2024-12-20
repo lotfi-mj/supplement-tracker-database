@@ -1,0 +1,28 @@
+## Sheet 1: Brands
+brand_id,name,website,quality_certifications,manufacturing_standards,country,founding_year
+TNQ,Toniqq,toniqq.com,GMP,ISO 9001,Netherlands,2020
+NOW,NOW Foods,nowfoods.com,"GMP,NSF",FDA Registered,USA,1968
+
+## Sheet 2: Products
+product_id,brand_id,name,category,primary_ingredient,dosage,unit,form,serving_size,benefits,recommended_stack,price,url
+TNQ001,TNQ,Focus+,nootropics,Alpha GPC,300,mg,capsule,2,"Focus, Memory","TNQ002,TNQ003",39.99,toniqq.com/focus
+TNQ002,TNQ,Energy+,energy,Cordyceps,500,mg,capsule,2,"Energy, Stamina",TNQ001,39.99,toniqq.com/energy
+
+## Sheet 3: Categories
+category_id,name,description,type
+NOO,Nootropics,Cognitive enhancement supplements,performance
+ENE,Energy,Energy and performance supplements,performance
+
+## Sheet 4: Quality Data
+product_id,coa_score,third_party_testing,manufacturing_quality,last_verified_date
+TNQ001,95,Yes,GMP Certified,2024-01-15
+TNQ002,92,Yes,GMP Certified,2024-01-15
+
+## Sheet 5: Combinations
+combo_id,name,products,synergy_benefits,recommended_timing
+COMB001,Focus Stack,"TNQ001,TNQ002",Enhanced cognitive performance,Morning
+
+## Sheet 6: Ingredients
+ingredient_id,name,category,common_dosage,unit,benefits,interactions
+AGPC,Alpha GPC,nootropics,300,mg,"Memory, Focus",None known
+CORD,Cordyceps,adaptogens,500,mg,"Energy, Immunity",None known
