@@ -1,0 +1,2 @@
+product_id,name,description,primary_ingredient,form,dosage,unit,serving_size,benefits,suggested_combinations,category_tags,price,url
+TQ001,Example Product,Description here,Main ingredient,capsule,500,mg,2,"Benefit 1, Benefit 2","TQ002, TQ003","energy,focus",29.99,https://toniqq.com/example
