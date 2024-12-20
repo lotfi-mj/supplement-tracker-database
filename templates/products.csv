@@ -1,0 +1,6 @@
+product_id,name,brand,category,dosage,unit,form,serving_size,certifications,image_url
+VD001,Vitamin D3 5000,NOW Foods,vitamins,5000,IU,softgel,1,USP/GMP,
+MG001,Magnesium Glycinate,Pure Encapsulations,minerals,120,mg,capsule,2,NSF/GMP,
+FO001,Omega-3 Fish Oil,Nordic Naturals,fish_oils,1000,mg,softgel,2,IFOS/GMP,
+VC001,Vitamin C,Thorne Research,vitamins,1000,mg,capsule,1,NSF/GMP,
+ZN001,Zinc Picolinate,Thorne Research,minerals,30,mg,capsule,1,NSF/GMP,

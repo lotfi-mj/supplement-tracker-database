@@ -26,8 +26,8 @@ Certificate of Analysis (COA) and quality metrics:
 
 ## Getting Started
 
-1. Copy the [Google Sheets template](templates/supplement-tracker-template.xlsx)
-2. Follow the data entry guidelines in `docs/data-entry-guide.md`
+1. Make a copy of the template sheets
+2. Follow the data entry guidelines
 3. Start with the sample data provided
 4. Add your own products following the established format
 
@@ -38,16 +38,3 @@ Certificate of Analysis (COA) and quality metrics:
 - Keep categories simple initially
 - Verify all quality data
 - Include source links for COA information
-
-## Sample Data
-
-The template includes sample data for common supplements:
-- Vitamin D3
-- Magnesium
-- Fish Oil
-- Vitamin C
-- Zinc
-
-## Contributing
-
-Feel free to suggest improvements or report issues through GitHub issues.
